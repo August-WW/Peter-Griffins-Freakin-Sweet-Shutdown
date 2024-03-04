@@ -23,6 +23,4 @@ namespace Peter_Alert
 
 // Hey Lois, I'm in Visual Studio
 
-// RUN AS ADMINISTRATOR IF IT DOESN'T WORK
-
 // August, 2023
